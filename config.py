@@ -39,7 +39,7 @@ class DefaultConfig(object):
     vis = True
 
 
-    gen_img = 'result.png'
+    gen_img = 'results.png'
     # 从512张生成的图片中保存最好的64张
     gen_num = 64
     gen_search_num = 512
